@@ -22,7 +22,7 @@ Friend.ly is still in development. While MIT App Inventor has provided a startin
 ## Introducing Friend.ly v1.0915
 
 Welcome to the very first **public release** of Friend.ly.  
-Due to the short development timeline and the limitations of MIT App Inventor, this version includes only a limited set of features.
+Due to the short development time and the limitations of MIT App Inventor, this version includes only a limited set of features.
 
 ---
 
