@@ -1,6 +1,10 @@
 # Welcome to Friend.ly
 
 ### 1.0915 — Released September 15, 2025
+
+### 1.0xxx — In Development
+<sub>CODENAME: Condor</sub>
+
 ---
 
 ### **DISCLAIMER:**
