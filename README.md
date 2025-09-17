@@ -10,7 +10,12 @@
 
 Friend.ly is still in development. While MIT App Inventor has provided a starting point, it also imposes some limitations on what we can build right now. In the near future, all code will be migrated to Python for greater flexibility and performance.
 
-<span style="color:red">⚠️ This program is not fully mobile-friendly yet, especially on iOS Devices!</span>
+⚠️ $${\color{red} \textsf{This program is not fully mobile-friendly yet, especially on iOS Devices!}}$$
+
+
+
+
+
 
 ---
 
