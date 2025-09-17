@@ -8,16 +8,16 @@
 
 ### **DISCLAIMER:**
 
-Friend.ly is still in development. While MIT App Inventor has provided a starting point, it also brings a few limitations to what we can develop right now. In the near future, we’ll be migrating all code to Python.
+Friend.ly is still in development. While MIT App Inventor has provided a starting point, it also imposes some limitations on what we can build right now. In the near future, all code will be migrated to Python for greater flexibility and performance.
 
-<span style="color:red">This program is not mobile-friendly yet! (More so iOS Friendly).</span>
-
+<span style="color:red">⚠️ This program is not fully mobile-friendly yet, especially on iOS Devices!</span>
 
 ---
 
 ## Introducing Friend.ly v1.0915
 
-Welcome to the very first **public release** of Friend.ly. Because of the short development time and the limitations of MIT App Inventor, this version includes only a limited set of features.
+Welcome to the very first **public release** of Friend.ly.  
+Due to the short development timeline and the limitations of MIT App Inventor, this version includes only a limited set of features.
 
 ---
 
@@ -30,5 +30,5 @@ Welcome to the very first **public release** of Friend.ly. Because of the short 
 
 Created with ❤️ using **MIT App Inventor** and **Python**.  
 
-Developers:  
+**Developers:**  
 Jacob M.M. Fisher, Gage K'R Dowley, and Caiden Goff
