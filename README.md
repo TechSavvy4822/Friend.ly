@@ -2,7 +2,7 @@
 
 ### 1.0915 — Released September 15, 2025
 
-### 1.0xxx — In Development (<sub>CODENAME: Condor</sub>)
+### 1.0xxx — In Development | <sub>CODENAME: Condor</sub>
 
 ---
 
