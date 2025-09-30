@@ -1,9 +1,7 @@
 # Welcome to Friend.ly
-
-### 1.0915 — Released September 15, 2025
-
 ### 1.1002 — In Development | Estimated Release Date - October 2, 2025
 
+### 1.0915 — Released September 15, 2025
 ---
 
 ### **DISCLAIMER:**
