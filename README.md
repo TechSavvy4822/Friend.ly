@@ -1,5 +1,5 @@
 # Welcome to Friend.ly
-### 1.1002 — In Development | Estimated Release Date - October 2, 2025
+### 1.1003 - Released October 3, 2025
 
 ### 1.0915 — Released September 15, 2025
 ---
@@ -17,7 +17,7 @@ Friend.ly is still in development. While MIT App Inventor has provided a startin
 
 ---
 
-## Introducing Friend.ly v1.1002
+## Introducing Friend.ly v1.1003
 
 Welcome to the second **public release** of Friend.ly. Due to the short development time and the limitations of MIT App Inventor, this version includes only a limited set of features.
 
@@ -26,7 +26,7 @@ Welcome to the second **public release** of Friend.ly. Due to the short developm
 ## What’s New
 
 * **Properly Functional Login/Register Screen**
-* **New Game - LetterLogic (WIP)** *(beta)*
+* **New Game - LetterLogic (WIP)** 
 
 ---
 
