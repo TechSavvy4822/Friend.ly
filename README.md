@@ -6,6 +6,8 @@ Friend.ly is a friendly (pun intended) mobile app similar to the popular known s
 **DISCLAIMER:**
 
 Friend.ly is still in development. While MIT App Inventor has provided a starting point, it also imposes some limitations on what we can currently develop. In the near future, all code will be migrated to Python for greater flexibility and performance.
+
+$${\color{red}This \space program  \space is \space not \space fully \space mobile \space friendly \space yet, \space especially \space on \space iOS \space Devices! \space Friend.ly \space will \space become \space mobile \space friendly \space in \space a \space future \space update!}$$ 
 * * *
 Friend.ly 1.10xxxx - In Developement <br>
 <sub> Codename: Forestiere </sub>
@@ -19,7 +21,6 @@ This update includes the following enhancements and bug fixes:
 *   NEW User-to-User Chat Functionality
 *   Fixed Login / Registration Page
   
-$${\color{red}This \space program  \space is \space not \space fully \space mobile \space friendly \space yet, \space especially \space on \space iOS \space Devices! \space Friend.ly \space will \space become \space mobile \space friendly \space in \space a \space future \space update!}$$ 
 * * *
 
 Friend.ly 1.100325 - Released on October 3, 2025
@@ -32,8 +33,6 @@ This update includes the following enhancements:
 *   NEW Games Page
 *   NEW Game - LetterLogic
 *   NEW and Improved Login/Register Page
-  
-$${\color{red}This \space program  \space is \space not \space fully \space mobile \space friendly \space yet, \space especially \space on \space iOS \space Devices! \space Friend.ly \space will \space become \space mobile \space friendly \space in \space a \space future \space update!}$$ 
 
 * * *
 
@@ -46,8 +45,6 @@ This update includes the following enhancements:
 
 *   Camera Screen with Color Annotative Functionality
 *   Interactive Navigation Bar
-
-$${\color{red}This \space program  \space is \space not \space fully \space mobile \space friendly \space yet, \space especially \space on \space iOS \space Devices! \space Friend.ly \space will \space become \space mobile \space friendly \space in \space a \space future \space update!}$$ 
 
 * * *
 
