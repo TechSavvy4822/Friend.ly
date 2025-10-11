@@ -7,7 +7,7 @@ Friend.ly is a friendly (pun intended) mobile app similar to the popular known s
 
 Friend.ly is still in development. While MIT App Inventor has provided a starting point, it also imposes some limitations on what we can currently develop. In the near future, all code will be migrated to Python for greater flexibility and performance.
 
-$${\color{red}This \space program  \space is \space not \space fully \space mobile \space friendly \space yet, \space especially \space on \space iOS \space Devices! \space Friend.ly \space will \space become \space mobile \space friendly \space in \space a \space future \space update!}$$ 
+$${\color{red}This \space program  \space is \space not \space fully \space mobile \space friendly \space yet, \space especially \space on \space iOS \space Devices! \space Friend.ly \space will \space become \space mobile \space friendly \space in \space a \space \\ future \space update!}$$ 
 * * *
 Friend.ly 1.10xxxx - In Developement <br>
 <sub> Codename: Forestiere </sub>
