@@ -56,7 +56,7 @@ This update includes the following enhancements:
 
 * * *
 
-Friend.ly 1.0915 - Released on September 15
+Friend.ly 1.0915 - Released on September 15, 2025
 ----------------
 
 Welcome to the **first public release** of Friend.ly. Due to the short development time and the limitations of MIT App Inventor, this version includes only a limited set of features.
