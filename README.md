@@ -1,4 +1,4 @@
-About Friend.ly Updates
+Friend.ly Update Logs
 =======================
 
 Friend.ly is a friendly (pun intended) mobile app similar to the popular known social media platform, Snapchat.
@@ -13,16 +13,33 @@ $${\color{red} Friend.ly \space will \space become \space mobile \ space friendl
 
 * * *
 Friend.ly 1.10xxxx - In Developement <br>
-<sub> Codename: Forestiere </sub>
+<sub> Codename: Middleton </sub>
 ------------------
 
-Friend.ly 1.10xxxx will be the  **third public release** of Friend.ly. Due to the short development time and the limitations of MIT App Inventor, this version includes only a limited set of features.
+Friend.ly 1.10xxxx will be the  **fourth public release** of Friend.ly. Due to the short development time and the limitations of MIT App Inventor, this version includes only a limited set of features.
 
 This update includes the following enhancements and bug fixes:
 
-*   NEW User Profile Page (with Online Status)
-*   NEW User-to-User Chat Functionality
-*   Fixed Login / Registration Page
+*   NEW Game - WordLink
+*   Major Redesign - Camera Page
+    - Layout Redesign
+    - More Annotation Buttons
+  
+* * *
+
+Friend.ly 1.101025 - Released on October 10, 2025<br>
+------------------
+$$
+{\color{red} DISCLAIMER: \space There's \space a \space bug \space on \space the \space Settings \space page, \space in \space which \space the \space user \space info \space doesn't \space show \space up.} <br>
+{\color{red} This \space bug \space should \space be \space mitigated \space before \space the \space next \space update.}
+$$
+
+Welcome to the **third public release** of Friend.ly. Due to the short development time and the limitations of MIT App Inventor, this version includes only a limited set of features.
+
+This update includes the following enhancements:
+
+*   Small Improvement to LetterLogic
+*   Removal of Some Navigation Buttons
   
 * * *
 
@@ -51,7 +68,7 @@ This update includes the following enhancements:
 
 * * *
 
-Copyright © 2025 Friend.ly Dev Inc. All rights reserved.
+Copyright © 2025 Friend.ly Dev Team All rights reserved.
 
 Created on MIT App Inventor with ❤️
 
