@@ -3,20 +3,29 @@ Friend.ly Update Logs
 
 Friend.ly is a friendly (pun intended) mobile app similar to the popular known social media platform, Snapchat.
 
-**DISCLAIMER:**
+**DISCLAIMER (Updated as of 11/3/25):**
 
-Friend.ly is still in development. While MIT App Inventor has provided a starting point, it also imposes some limitations on what we can currently develop. In the near future, all code will be migrated to Python for greater flexibility and performance.
-
-$${\color{red}This \space program \space is \space not \space fully \space mobile \space friendly \space yet, \space especially \space on \space iOS \space devices! }$$
-$${\color{red} Friend.ly \space will \space become \space mobile \ space friendly \space in \space a \space future \space update.}$$
-
-
+We’re currently developing Friend.ly for iOS devices. While we don’t have a set release date yet, we truly appreciate your patience and continued support!
 * * *
-Friend.ly 1.10xxxx - In Developement <br>
+Friend.ly on iOS - Version 1.1 <br>
 <sub> Codename: Middleton </sub>
 ------------------
 
-Friend.ly 1.10xxxx will be the  **fourth public release** of Friend.ly. Due to the short development time and the limitations of MIT App Inventor, this version includes only a limited set of features.
+Friend.ly 1.101625 will be the  **fourth public release** of Friend.ly. Due to the short development time and the limitations of MIT App Inventor, this version includes only a limited set of features.
+
+This update includes the following enhancements and bug fixes:
+
+*   NEW Game - WordLink
+*   Major Redesign - Camera Page
+    - Layout Redesign
+    - More Annotation Buttons
+  
+* * *
+Friend.ly 1.101625 -  $${\color{red} Deprecated }$$ <br>
+<sub> Codename: Middleton </sub>
+------------------
+
+Friend.ly 1.101625 will be the  **fourth public release** of Friend.ly. Due to the short development time and the limitations of MIT App Inventor, this version includes only a limited set of features.
 
 This update includes the following enhancements and bug fixes:
 
