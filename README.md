@@ -83,4 +83,4 @@ Created on MIT App Inventor with ❤️
 
   
 
-Developers: **Jacob M.M. Fisher, Gage K'R Dowley, and Caiden Goff**
+Developers: **Jacob M.M. Fisher, Gage K'R Dowley, Caiden Goff, and Jaden Stout-Reason**
