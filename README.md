@@ -8,7 +8,7 @@ Friend.ly is a friendly (pun intended) mobile app similar to the popular known s
 We’re currently developing Friend.ly for iOS devices. While we don’t have a set release date yet, we truly appreciate your patience and continued support!
 * * *
 Friend.ly on iOS - Version 1.0 <br>
-<sub> Version: 1.0.0 </sub>
+<sub> Version: 0.1.0 </sub>
 ------------------
 Lorem ipsum sit dolor amet.
 
