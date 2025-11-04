@@ -7,18 +7,15 @@ Friend.ly is a friendly (pun intended) mobile app similar to the popular known s
 
 We’re currently developing Friend.ly for iOS devices. While we don’t have a set release date yet, we truly appreciate your patience and continued support!
 * * *
-Friend.ly on iOS - Version 1.1 <br>
-<sub> Codename: Middleton </sub>
+Friend.ly on iOS - Version 1.0 <br>
+<sub> Version: 0.1.0 </sub>
 ------------------
+Lorem ipsum sit dolor amet.
 
-Friend.ly 1.101625 will be the  **fourth public release** of Friend.ly. Due to the short development time and the limitations of MIT App Inventor, this version includes only a limited set of features.
 
 This update includes the following enhancements and bug fixes:
 
-*   NEW Game - WordLink
-*   Major Redesign - Camera Page
-    - Layout Redesign
-    - More Annotation Buttons
+*   TBD
   
 * * *
 Friend.ly 1.101625 -  $${\color{red} Deprecated }$$ <br>
