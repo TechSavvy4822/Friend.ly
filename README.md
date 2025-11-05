@@ -1,7 +1,7 @@
-Friend.ly Update Logs
-=======================
+<p align="center"><img src="https://u.cubeupload.com/developer4life/RepoLogo.png" alt="Friend.ly Repo Logo" width="1920" height="1080"></p>
+<h1 align="center">Welcome to the Friend.ly GitHub Repository!</h1>
 
-Friend.ly is a friendly (pun intended) mobile app similar to the popular known social media platform, Snapchat.
+Friend.ly is a **friendly (pun intended) community-based social media platform** inspired by the popular social media platforms Snapchat and Instagram. This repository contains the app’s s**ource code, documentation, and collaborative tools** for the development team. This README provides an **updated overview of all recent changes**, **improvements**, and **resources** related to our **project’s development workflow, roadmap, and team organization**.
 
 **DISCLAIMER (Updated as of 11/3/25):**
 
