@@ -62,7 +62,7 @@ Meet the amazing team behind **Friend.ly** !
 ---
 ##  Founder / Social-Media Manager
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Windows_10_Default_Profile_Picture.svg/1200px-Windows_10_Default_Profile_Picture.svg.png" alt="Jacob Fisher" width="200" height="200" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Windows_10_Default_Profile_Picture.svg/1200px-Windows_10_Default_Profile_Picture.svg.png" alt="Jacob Fisher" width="200" height="250" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
 </p>
 
 ### **Jacob Fisher**
@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 ##  Lead iOS Developer / Lead Web Developer  / Project Manager / Co-Founder
 <p align="left">
-  <img src="assets/gage.png" alt="Gage Dowley" width="200" height="200" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
+  <img src="assets/gage.png" alt="Gage Dowley" width="200" height="250" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
 </p>
 
 ### **Gage Dowley**
@@ -89,7 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##  Lead Game Developer / Python Developer 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Windows_10_Default_Profile_Picture.svg/1200px-Windows_10_Default_Profile_Picture.svg.png" alt="Caiden Goff" width="200" height="200" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Windows_10_Default_Profile_Picture.svg/1200px-Windows_10_Default_Profile_Picture.svg.png" alt="Caiden Goff" width="200" height="250" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
 </p>
 
 ### **Caiden Goff**
@@ -102,7 +102,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 ##  Lead Python Developer / Game Developer / Assistant Project Manager 
 <p align="left">
-  <img src="assets/jaden_stout-reason.png" alt="Jaden Stout-Reason" width="200" height="200" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
+  <img src="assets/jaden_stout-reason.png" alt="Jaden Stout-Reason" width="200" height="250" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
 </p>
 
 ### **Jaden Stout-Reason**
