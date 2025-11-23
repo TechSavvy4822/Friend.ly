@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 ##  Lead iOS Developer / Lead Web Developer  / Project Manager / Co-Founder
 <p align="left">
-  <img src="assets/gage.png" alt="Gage Dowley" width="200" height="250" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
+  <img src="assets/gage_dowley.png" alt="Gage Dowley" width="200" height="300" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
 </p>
 
 ### **Gage Dowley**
@@ -102,7 +102,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 ##  Lead Python Developer / Game Developer / Assistant Project Manager 
 <p align="left">
-  <img src="assets/jaden_stout-reason.png" alt="Jaden Stout-Reason" width="200" height="250" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
+  <img src="assets/jaden_stout-reason.png" alt="Jaden Stout-Reason" width="200" height="300" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
 </p>
 
 ### **Jaden Stout-Reason**
