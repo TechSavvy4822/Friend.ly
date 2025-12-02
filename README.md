@@ -68,7 +68,7 @@ Meet the amazing team behind **Friend.ly** !
 ### **Jacob Fisher**
 *Project Founder • Social Media Manager • Emotional-Support Person*  
 <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Im a 9th grade student that is attending Conway High school who is interested in getting more knowledge at coding. I will contribute to the project by promoting the project on many social media platforms.  
 
 **Contributions:**
 
