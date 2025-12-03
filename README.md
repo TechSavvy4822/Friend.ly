@@ -62,7 +62,7 @@ Meet the amazing team behind **Friend.ly** !
 ---
 ##  Founder / Social-Media Manager
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Windows_10_Default_Profile_Picture.svg/1200px-Windows_10_Default_Profile_Picture.svg.png" alt="Jacob Fisher" width="200" height="300" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
+  <img src="assets/jacob_fisher.png" alt="Jacob Fisher" width="200" height="300" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
 </p>
 
 ### **Jacob Fisher**
