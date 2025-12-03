@@ -68,7 +68,7 @@ Meet the amazing team behind **Friend.ly** !
 ### **Jacob Fisher**
 *Project Founder • Social Media Manager • Emotional-Support Person*  
 <br>
-Im a 9th grade student that is attending Conway High school who is interested in getting more knowledge at coding. I will contribute to the project by promoting the project on many social media platforms.  
+I’m a 9th grade student that is attending Conway High School who is interested in getting more knowledge about coding. I will contribute to the project by promoting the project on many social media platforms.  
 
 **Contributions:**
 
