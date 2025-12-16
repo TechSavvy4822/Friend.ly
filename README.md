@@ -82,7 +82,7 @@ I’m a 9th grade student that is attending Conway High School who is interested
 </p>
 
 ### **Gage Dowley**
-*Project Co-Founder • Lead Developer (iOS and Web) • Project Manager*
+*Project Co-Founder • Lead Developer (iOS and Web) • Project Manager • UI/UX Designer*
 
 Hello, I’m Gage Dowley, one of the co-founders of Friend.ly and the lead developer for our iOS and web versions. I’m in charge of managing the project’s direction, ensuring everything stays organized, moving forward, and on schedule.
 
