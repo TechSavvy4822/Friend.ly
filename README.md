@@ -4,55 +4,68 @@
 Friend.ly is a **friendly (pun intended) community-based social media platform** inspired by the popular social media platforms Snapchat and Instagram. This repository contains the app’s s**ource code, documentation, and collaborative tools** for the development team. This README provides an **updated overview of all recent changes**, **improvements**, and **resources** related to our **project’s development workflow, roadmap, and team organization**.
 
 ---
-**DISCLAIMER (Updated as of 11/22/25):**
 
-We’re currently developing Friend.ly for iOS and Android devices, as well as a web version. While we don’t have a set release date yet, we truly appreciate your patience and continued support!
+## Availability
 
----
-## 🔗 Links (Coming Soon)
-- Friend.ly Website (In Development)
-- Friend.ly Social Media Page #1
-- Friend.ly Social Media Page #2
-- Friend.ly Social Media Page #3
-* * *
+**Status (Updated 11/22/25)**
 
-
-## ⛭ Recent Updates
-### 1. **Version Numbering Standard (Semantic Versioning):**
-We follow the **MAJOR.MINOR.PATCH** format:
-<p align="center"><img src="https://u.cubeupload.com/developer4life/Screenshot20251107at.png" alt="Friend.ly Repo Logo" width="500" height="600"></p>
-
-- **MAJOR** — big releases or rewrites  
-
-- **MINOR** — new features or improvements
-    
-- **PATCH** — bug fixes or small updates  
-
-> Example: `v2.1.0` = Second main release, first feature update, no patches yet.
-<br>
+Friend.ly is currently in active development for **iOS**, **Android**, and **Web** platforms.  
+There is no public release date at this time. We appreciate your patience as we focus on building a stable, polished experience.
 
 ---
 
-### 2. **Software / App Development Life Cycle (SDLC)**
+## Platforms
 
-We strictly follow the **Software Development Life Cycle** to maintain quality and efficiency throughout Friend.ly’s development.
-<p align="center"><img src="https://u.cubeupload.com/developer4life/SDLC.png" alt="Friend.ly Repo Logo" width="1920" height="1080"></p>
+Friend.ly is being developed simultaneously across three platforms, each using tools native to its environment.
+
+- **iOS** — Swift, SwiftUI, Xcode  
+  Clean architecture, smooth animations, and a system-native user experience.
+
+- **Android** — Python + Android Studio (in progress)  
+  Early development focused on core logic and feature parity.
+
+- **Web** — Visual Studio Code  
+  A browser-first experience for desktop users.
 
 ---
-### 3. **Repository Reorganization & Multi-Platform Development**
 
-We’re currently cleaning up and reorganizing the whole Friend.ly repository so everything is easier to find, easier to work on, and way more organized as the project grows. Since we’re building Friend.ly for **iOS, Android, and Web**, we want the repository to reflect that.
+## Versioning
+
+We follow **Semantic Versioning** to ensure clarity and consistency across releases.
+
+<p align="center">
+  <img src="https://u.cubeupload.com/developer4life/Screenshot20251107at.png" width="420">
+</p>
+
+- **MAJOR** — Significant releases or architectural changes  
+- **MINOR** — New features and enhancements  
+- **PATCH** — Bug fixes and small refinements  
+
+Example: `v2.1.0`
 
 ---
 
-We’re officially in the process of building Friend.ly for **three different platforms** at the same time. Each one uses the best tools for that device:
+## Development Process
 
-- **iOS (SwiftUI + Xcode)** - This is our cleanest, most polished version right now. Built in Xcode using Swift + SwiftUI, smooth animations.
+Friend.ly follows a structured **Software Development Life Cycle (SDLC)** to maintain quality, predictability, and scalability.
 
-- **Android (Python + Android Studio???)** - We’re getting the Android version going in Python and possibly Android Studio.
+<p align="center">
+  <img src="https://u.cubeupload.com/developer4life/SDLC.png" width="720">
+</p>
 
-- **Web Version (Visual Studio Code)** - We’re also bringing Friend.ly to the web. This version is perfect for people who use browsers more than phones.
+This approach ensures that features are planned, implemented, tested, and refined with intention.
 
+---
+
+## Repository Structure
+
+The repository is currently being reorganized to better support multi-platform development.  
+Our goals are:
+
+- Clear separation by platform  
+- Scalable architecture  
+- Improved contributor onboarding  
+- Long-term maintainability  
 ---
 
 ## Team Directory
@@ -108,13 +121,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br clear="left"/>
 
 ---
-##  Lead Python Developer / Game Developer / Assistant Project Manager 
+##  Lead Python Developer / Lead Android Developer / Game Developer / Assistant Project Manager / CSO
 <p align="left">
   <img src="assets/jaden_stout-reason.png" alt="Jaden Stout-Reason" width="200" height="300" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
 </p>
 
 ### **Jaden Stout-Reason**
-*Lead Python Developer • Game Developer • Assistant Project Manager*  
+*Lead Python Developer • Game Developer • Assistant Project Manager • Chief Information Security Officer • Lead Android Developer*  
 
 Hey everyone, I’m Jaden! I'm a very well-known programmer who specializes in game development for Python and cybersecurity. I’ll mainly be focusing on the Android side of Friend.ly. My goal is to help build a secure app and implement a safe environment for all our Android users as well as create games for Friend.ly via Python.
 
@@ -129,3 +142,5 @@ Hey everyone, I’m Jaden! I'm a very well-known programmer who specializes in g
 Copyright © 2025 Friend.ly Dev Team All rights reserved.
 
 Created on MIT App Inventor, Xcode, Python, and Visual Studio Code with ❤️
+
+
