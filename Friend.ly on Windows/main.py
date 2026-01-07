@@ -27,7 +27,7 @@ screen_resolutions = {
     '1920x1080': (1920, 1080),
     '1080x640': (1080, 640)
 }
-currentResolution = '1920x1080'
+currentResolution = '1080x640'
 
 screenW, screenH = screen_resolutions[currentResolution]
 screen = pygame.display.set_mode((screenW, screenH))
