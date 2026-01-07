@@ -2,9 +2,9 @@ import pygame
 import json
 import os
 import random
-import base64
 import sys
 from pathlib import Path
+import utils
 
 pygame.init()
 
@@ -53,20 +53,6 @@ buttonBottom = (0, 150, 0)
 inputColor = white
 
 SECRET_KEY = "friendly_key"
-
-def xor_encrypt(text):
-    encrypted = "".join(
-        chr(ord(c) ^ ord(SECRET_KEY[i % len(SECRET_KEY)]))
-        for i, c in enumerate(text)
-    )
-    return base64.b64encode(encrypted.encode()).decode()
-
-def xor_decrypt(encoded):
-    decoded = base64.b64decode(encoded).decode()
-    return "".join(
-        chr(ord(c) ^ ord(SECRET_KEY[i % len(SECRET_KEY)]))
-        for i, c in enumerate(decoded)
-    )
 
 def load_users():
     if not dataFile.exists():
@@ -209,7 +195,7 @@ while running:
             login_pass.handle(event)
             if btn_login_screen.clicked(event):
                 for u, p in users.items():
-                    if xor_decrypt(u) == login_user.text and xor_decrypt(p) == login_pass.text:
+                    if utils.xor_decrypt(u, SECRET_KEY) == login_user.text and utils.xor_decrypt(p, SECRET_KEY) == login_pass.text:
                         mode = "main"
             if btn_back.clicked(event):
                 mode = "menu"
@@ -218,7 +204,7 @@ while running:
             signup_user.handle(event)
             signup_pass.handle(event)
             if btn_signup_screen.clicked(event):
-                users[xor_encrypt(signup_user.text)] = xor_encrypt(signup_pass.text)
+                users[utils.xor_encrypt(signup_user.text, SECRET_KEY)] = utils.xor_encrypt(signup_pass.text, SECRET_KEY)
                 save_users(users)
                 mode = "menu"
             if btn_back.clicked(event):
