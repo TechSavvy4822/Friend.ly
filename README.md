@@ -7,10 +7,10 @@ Friend.ly is a **friendly (pun intended) community-based social media platform**
 
 ## Availability
 
-**Status (Updated 11/22/25)**
+**Status (Updated 1/25/26)**
 
 Friend.ly is currently in active development for **iOS**, **Android**, and **Web** platforms.  
-There is no public release date at this time. We appreciate your patience as we focus on building a stable, polished experience.
+There is no public release date at this time; however, we're hoping that we can start beta testing around Late February, Early March. We appreciate your patience as we focus on building a stable, polished experience.
 
 ---
 
@@ -100,7 +100,8 @@ I’m a 9th grade student that is attending Conway High School who is interested
 Hello, I’m Gage Dowley, one of the co-founders of Friend.ly and the lead developer for our iOS and web versions. I’m in charge of managing the project’s direction, ensuring everything stays organized, moving forward, and on schedule.
 
 **Contributions:**
-
+  * Designed Friend.ly's UI/UX - 1/25/26
+  
 <br clear="left"/>
 
 ---
@@ -141,6 +142,6 @@ Hey everyone, I’m Jaden! I'm a very well-known programmer who specializes in g
 
 Copyright © 2025 Friend.ly Dev Team All rights reserved.
 
-Created on MIT App Inventor, Xcode, Python, and Visual Studio Code with ❤️
+Created on MIT App Inventor, Xcode, Python, Java, and Visual Studio Code with ❤️
 
 
