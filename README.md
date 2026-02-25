@@ -138,6 +138,22 @@ Hey everyone, I’m Jaden! I'm a very well-known programmer who specializes in g
 <br clear="left"/>
 
 ---
+##   Game Developer / Assistant UI/UX Designer / Lead Debugger
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Windows_10_Default_Profile_Picture.svg/960px-Windows_10_Default_Profile_Picture.svg.png" alt="Daniel Donohue" width="200" height="300" align="left" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);">
+</p>
+
+### **Daniel Donohue**
+*Game Developer • Assistant UI/UX Designer • Lead Debugger *  
+
+[INSERT BIO HERE]
+
+**Contributions:**
+
+
+<br clear="left"/>
+
+---
 * * *
 
 Copyright © 2025 Friend.ly Dev Team All rights reserved.
