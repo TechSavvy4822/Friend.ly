@@ -7,10 +7,9 @@ Friend.ly is a **friendly (pun intended) community-based social media platform**
 
 ## Availability
 
-**Status (Updated 1/25/26)**
+**Status (Updated 3/31/26)**
 
-Friend.ly is currently in active development for **iOS**, **Android**, and **Web** platforms.  
-There is no public release date at this time; however, we're hoping that we can start beta testing around Late February, Early March. We appreciate your patience as we focus on building a stable, polished experience.
+Friend.ly is now available to the public!! Our new platform is a prototype version where you can make posts, play games, and chat with friends, just the basics for now, but we’re excited to get your feedback! Keep in mind that the website is NOT mobile-friendly yet as we are in the process of making the mobile app!
 
 ---
 
@@ -156,7 +155,7 @@ Hey everyone, I’m Jaden! I'm a very well-known programmer who specializes in g
 ---
 * * *
 
-Copyright © 2025 Friend.ly Dev Team All rights reserved.
+Copyright © 2026 Friend.ly Dev Team All rights reserved.
 
 Created on MIT App Inventor, Xcode, Python, Java, and Visual Studio Code with ❤️
 
